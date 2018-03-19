@@ -1,0 +1,436 @@
+[
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521491050474,
+            "changeTime": 1521491050474,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521491050476,
+            "changeTime": 1521491050476,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521493215459,
+            "changeTime": 1521493215459,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521491050481,
+            "changeTime": 1521491050481,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521493422002,
+            "changeTime": 1521493422002,
+            "isWorkspace": false,
+            "contentHash": "9f08db1ecf2fcf0c098f3e992986607b43c6c739"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManager.cls",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManager.cls",
+            "isDirectory": false,
+            "size": 427,
+            "modifiedTime": 1521491323423,
+            "changeTime": 1521491323423,
+            "contentHash": "e680d1c17e112cf3c53d8d2890fc938c7103ff09",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManager.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManager.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521491323414,
+            "changeTime": 1521491323414,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManagerTest.cls",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManagerTest.cls",
+            "isDirectory": false,
+            "size": 1178,
+            "modifiedTime": 1521491323443,
+            "changeTime": 1521491323443,
+            "contentHash": "4554fde50404bd156b8a4ef48bd5285888877de7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManagerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountManagerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521491323435,
+            "changeTime": 1521491323435,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+            "isDirectory": false,
+            "size": 488,
+            "modifiedTime": 1521491323461,
+            "changeTime": 1521491323461,
+            "contentHash": "1c91c4df2165d8ae3f3a6241c6732b43fc8c1988",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521491323453,
+            "changeTime": 1521491323453,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+            "isDirectory": false,
+            "size": 499,
+            "modifiedTime": 1521491323480,
+            "changeTime": 1521491323480,
+            "contentHash": "224f9ea6f6773cf0f80e86a5a5fd68570b2b83c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521491323471,
+            "changeTime": 1521491323471,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521491323491,
+            "changeTime": 1521491323491,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521491323494,
+            "changeTime": 1521491323494,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521493215352,
+            "changeTime": 1521493215352,
+            "contentHash": "b8ed52ba530ef517498b4cdf1e0370dd650a7f30",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1521491323508,
+            "changeTime": 1521491323508,
+            "contentHash": "5c8246ef94e6c903fbbc5c2dec6e5eb8c570e339",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521493422002,
+            "changeTime": 1521492568258,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Test_Checkbox__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\objects\\Account\\fields\\Test_Checkbox__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1521493215363,
+            "changeTime": 1521493215363,
+            "contentHash": "530eb6c6c1c2486f8f116b27725607b0c0ecfc0a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9713,
+            "modifiedTime": 1521493215394,
+            "changeTime": 1521493215394,
+            "contentHash": "0951f8db2647a313f2cffefd6993bc7d9b3f345a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9761,
+            "modifiedTime": 1521493215413,
+            "changeTime": 1521493215413,
+            "contentHash": "8dc81a5845c2988094486276bbc31c3d22ecc120",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9761,
+            "modifiedTime": 1521493215429,
+            "changeTime": 1521493215429,
+            "contentHash": "833dda0f006eebce8160bd28e00cacc647b0813d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9713,
+            "modifiedTime": 1521493215455,
+            "changeTime": 1521493215455,
+            "contentHash": "f0392ae15c6a11271e3e4b551c4578e5cc74cc46",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5089,
+            "modifiedTime": 1521493215474,
+            "changeTime": 1521493215474,
+            "contentHash": "1d227a799b0fb33468d2d8d8fd53c46fd3cc60ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18129,
+            "modifiedTime": 1521493215504,
+            "changeTime": 1521493215504,
+            "contentHash": "469798cc69aa8ba1ad0af81f224266f84d0df360",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5093,
+            "modifiedTime": 1521493215521,
+            "changeTime": 1521493215521,
+            "contentHash": "d5200ee725506673bb70e81fed3aafb885e6ad60",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5429,
+            "modifiedTime": 1521493215535,
+            "changeTime": 1521493215535,
+            "contentHash": "dcb3fe3e25c227b394889b1016b4794a9a48290d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521493215444,
+            "changeTime": 1521493215444,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521493215525,
+            "changeTime": 1521493215525,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\SfdxClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\SfdxClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 72,
+            "modifiedTime": 1521493425973,
+            "changeTime": 1521493425975,
+            "contentHash": "12b92e3c045e6784032fe7e269e6a2a2d1616894"
+        }
+    ],
+    [
+        "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\SfdxClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jlaramee\\Desktop\\test_sfdx\\Test_sfdx\\force-app\\main\\default\\classes\\SfdxClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 187,
+            "modifiedTime": 1521493422013,
+            "changeTime": 1521493422015,
+            "contentHash": "ec0c4f42f1603bc410e6c87faf54999940f447c8"
+        }
+    ]
+]
